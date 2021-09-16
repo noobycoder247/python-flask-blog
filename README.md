@@ -17,4 +17,4 @@ Create virtual enviroment by running this command
 **Step 5.** For running the project run this command
 `python app.py`
 
-_Congratulations your blog is up and arunning_
+_Congratulations your blog is up and running_
